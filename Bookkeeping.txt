@@ -1,0 +1,9 @@
+
+
+cd C:\Users\jayspc\Documents\VsCode\C++Projects\Graphics
+
+    
+Compliation : g++ FileName.cpp -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
+Exectuion : ./a.exe
+
+

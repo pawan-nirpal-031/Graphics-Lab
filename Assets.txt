@@ -1,0 +1,7 @@
+double theta = PI/6;
+int v = 10;
+double vx = -v*(cos(theta));
+double vy = v*(sin(theta));
+int xpos = WIN_WIDTH>>1;
+int ypos =0;
+int axis =0;
